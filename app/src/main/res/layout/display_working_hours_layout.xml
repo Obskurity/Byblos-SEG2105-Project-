@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/textViewTitle" android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" android:text=""/>
+    <TextView android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/textViewAddress" android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" android:text=""/>
+
+    <TextView
+        android:id="@+id/textViewRating"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/layoutWorkingDays">
+    <TextView android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/textViewMonday" android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium" android:text=""/>
+    <TextView android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/textViewTuesday" android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium" android:text=""/>
+    <TextView android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/textViewWednesday" android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium" android:text=""/>
+    <TextView android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/textViewThursday" android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium" android:text=""/>
+    <TextView android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/textViewFriday" android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium" android:text=""/>
+    <TextView android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/textViewSaturday" android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium" android:text=""/>
+    <TextView android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/textViewSunday" android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium" android:text=""/>
+    </LinearLayout>L
+
+</LinearLayout>

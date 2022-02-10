@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1050618890854",
+    "firebase_url": "https://byblosapp-ceebf-default-rtdb.firebaseio.com",
+    "project_id": "byblosapp-ceebf",
+    "storage_bucket": "byblosapp-ceebf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050618890854:android:88386c081340ca8d40fba7",
+        "android_client_info": {
+          "package_name": "com.example.bybloslogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050618890854-3lg991r13ff28akc9gf88vrcfnn19bpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDODw1MkQcTZDJfw5UdwfGsDvsHh0svElM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050618890854-3lg991r13ff28akc9gf88vrcfnn19bpr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
